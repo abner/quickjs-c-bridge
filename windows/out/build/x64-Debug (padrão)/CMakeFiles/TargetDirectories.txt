@@ -1,0 +1,4 @@
+C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows/out/build/x64-Debug (padrão)/CMakeFiles/quickjs.dir
+C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows/out/build/x64-Debug (padrão)/CMakeFiles/quickjs_c_bridge.dir
+C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows/out/build/x64-Debug (padrão)/CMakeFiles/edit_cache.dir
+C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows/out/build/x64-Debug (padrão)/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "flutter_js",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "quickjs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quickjs-Debug-918e33b216645ddbff9d.json",
+					"name" : "quickjs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quickjs_c_bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quickjs_c_bridge-Debug-6218b8a0e592478a4d01.json",
+					"name" : "quickjs_c_bridge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows/out/build/x64-Debug (padrão)",
+		"source" : "C:/Users/sr_ab/Projetos/quickjs-c-bridge/windows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
