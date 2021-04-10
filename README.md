@@ -36,6 +36,10 @@ Now compile using the ninja project generated:
 cmake --build .\build\windows
 ```
 
+### How to see symbols exported from a dll
+
+```dumpbin.exe /exports build/windows/quickjs_c_bridge.dll
+
 ## Linux
 
 At the project root directory, run:
