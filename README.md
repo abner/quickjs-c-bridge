@@ -38,7 +38,7 @@ cmake --build .\build\windows
 
 ### How to see symbols exported from a dll
 
-```dumpbin.exe /exports build/windows/quickjs_c_bridge.dll
+```dumpbin.exe /exports build/windows/quickjs_c_bridge.dll```
 
 ## Linux
 
